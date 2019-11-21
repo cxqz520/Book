@@ -1,0 +1,10 @@
+F:\WorkSpace\Book\Book\bin\Debug\Book.exe.config
+F:\WorkSpace\Book\Book\bin\Debug\Book.exe
+F:\WorkSpace\Book\Book\bin\Debug\Book.pdb
+F:\WorkSpace\Book\Book\obj\Debug\Book.csprojAssemblyReference.cache
+F:\WorkSpace\Book\Book\obj\Debug\Book.Form1.resources
+F:\WorkSpace\Book\Book\obj\Debug\Book.Properties.Resources.resources
+F:\WorkSpace\Book\Book\obj\Debug\Book.csproj.GenerateResource.cache
+F:\WorkSpace\Book\Book\obj\Debug\Book.csproj.CoreCompileInputs.cache
+F:\WorkSpace\Book\Book\obj\Debug\Book.exe
+F:\WorkSpace\Book\Book\obj\Debug\Book.pdb
